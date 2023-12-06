@@ -1,6 +1,6 @@
 # LINAR - Laboratorio de Inteligencia Artificial y Robótica
 
-<img src="./images/logo-linar-light.png" align="right"
+<img src="./profile/images/logo-linar-light.png" align="right"
      alt="LINAR Logo" height="80">
 
 Welcome to LINAR at Universidad de San Andrés, a leading laboratory in AI and robotics innovation. Our team, composed of expert engineers and physicists, is dedicated to pushing the boundaries in these dynamic fields.
