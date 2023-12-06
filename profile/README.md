@@ -4,11 +4,11 @@ Welcome to LINAR at Universidad de San Andrés, a leading laboratory in AI and r
 
 ## Research Areas
 
-- Autonomous Systems: Specializing in technologies for self-driving vehicles.
-- Robotics Mobility: Focusing on the development of quadruped robotics and multi-robot systems.
-- System Reliability and Safety: Concentrating on fault tolerance control, detection in robotics, and safety measures.
-- Unmanned Vehicles: Advancing the applications and functionalities of unmanned vehicles.
-- Educational Robotics: Using robotics to enhance learning and educational experiences.
+- **Autonomous Systems**: Specializing in technologies for self-driving vehicles.
+- **Robotics Mobility**: Focusing on the development of quadruped robotics and multi-robot systems.
+- **System Reliability and Safety**: Concentrating on fault tolerance control, detection in robotics, and safety measures.
+- **Unmanned Vehicles**: Advancing the applications and functionalities of unmanned vehicles.
+- **Educational Robotics**: Using robotics to enhance learning and educational experiences.
 
 ## Key Projects
 
