@@ -20,6 +20,6 @@ Welcome to LINAR at Universidad de San Andrés, a leading laboratory in AI and r
 - Applications of Unmanned Vehicles
 - Automatic Spin Detection for Planes
 
-Contact
+## Contact
 
 For more information about our innovative projects and research, visit [LINAR's website](https://udesa.edu.ar/linar).
